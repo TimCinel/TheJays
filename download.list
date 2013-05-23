@@ -1,0 +1,43 @@
+#media is usually only up for two weeks, these links will expire!
+#
+#edit this every week, then run:
+#   downloadStreams.sh && makePlaylist.sh
+#
+#vim macro to update, text sometimes requires pre/post-moulding:
+#`/http$T-7xn`
+
+#Roots n All (Mondays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/rna-1-2013-05-13.mp3
+
+#Racket (Tuesdays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/rac-1-2013-05-14.mp3
+
+#Short Fast Loud (Wednesdays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/sfl-1-2013-05-15.mp3
+
+#Hip Hop (Thursdays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/hip-1-2013-05-16.mp3
+
+#Friday Night Shuffle (Fridays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/fns-1-2013-05-17.mp3
+
+#House Party (Saturdays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/hpy-1-2013-05-18.mp3
+
+#Mix Up (Saturdays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/mxf-1-2013-05-18.mp3
+http://mpegmedia.abc.net.au/triplej/mod/hi/mxf-2-2013-05-18.mp3
+
+#Mix Up Exclusive (Saturdays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/mix-1-2013-05-18.mp3
+http://mpegmedia.abc.net.au/triplej/mod/hi/mix-2-2013-05-18.mp3
+http://mpegmedia.abc.net.au/triplej/mod/hi/mix-3-2013-05-18.mp3
+
+#Mix Up Exclusive (Sundays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/mix-4-2013-05-19.mp3
+
+#2013 with Richard Kingsmill (Sundays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/kin-1-2013-05-19.mp3
+
+#Sound Lab (Sundays)
+http://mpegmedia.abc.net.au/triplej/mod/hi/slb-1-2013-05-19.mp3
