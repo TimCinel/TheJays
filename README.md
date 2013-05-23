@@ -16,7 +16,11 @@ Ensure `downloadStreams.sh` and `makePlaylist.sh` are in your $PATH
     #edit `download.list` to use dates from the last week (or use macro)
     vim download.list
     
+    #download the streams and create a playlist (obvious in this case)
     downloadStreams.sh && makePlaylist.sh
+
+    #play the streams. if you like mplayer:
+    cat Currently\ Playing.m3u | xargs mplayer -really-quiet
 
 ## Credits ##
 
